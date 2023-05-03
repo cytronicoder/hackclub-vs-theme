@@ -1,0 +1,21 @@
+{
+  "name": "hack-club-theme",
+  "displayName": "Hack Club",
+  "description": "Level up your workspace with a dash of Hack Club colors!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hack Club",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hack Club-color-theme.json"
+      }
+    ]
+  }
+}
